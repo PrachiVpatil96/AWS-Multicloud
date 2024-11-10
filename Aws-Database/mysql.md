@@ -1,1 +1,1 @@
-# MySQl Database creation using Spring Pet Clinic
+# MySQl Database creation using Aws Cli (Commnad Line Interface)
